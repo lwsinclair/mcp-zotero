@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/kaliaboi-mcp-zotero-badge.png)](https://mseep.ai/app/kaliaboi-mcp-zotero)
+
 # MCP Zotero
 
 ![NPM Version](https://img.shields.io/npm/v/mcp-zotero) [![smithery badge](https://smithery.ai/badge/mcp-zotero)](https://smithery.ai/server/mcp-zotero)
